@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ninja7v
+- 👀 I’m interested in simulation/optimization/modelization.
+- 🌱 I’m currently learning C++ and Python.
+- 💞️ I’m looking to collaborate on a cool project.
+- 📫 How to reach me: on Linkedin or via e-mail.
