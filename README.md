@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ninja7v
+- 👋 Hi, I’m Luc Prevost (@ninja7v)
 - 👀 I’m interested in simulation/optimization/modelization.
 - 🌱 I’m currently improving C++ and Python.
 - 💞️ I’m looking to collaborate on a cool project.
