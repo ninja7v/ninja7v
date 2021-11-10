@@ -2,4 +2,4 @@
 - 👀 I’m interested in simulation/optimization/modelization.
 - 🌱 I’m currently improving C++ and Python.
 - 💞️ I’m looking to collaborate on a cool project.
-- 📫 How to reach me: on Linkedin or via e-mail: luc-prevost@hotmail.fr
+- 📫 How to reach me: on [Linkedin](linkedin.com/in/prevost-luc) or via e-mail: luc-prevost@hotmail.fr
