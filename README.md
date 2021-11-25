@@ -7,7 +7,7 @@
 </h2> 
 
 ### 🤝 Connect with me:
-- Social network: [Linkedin](linkedin.com/in/prevost-luc)
+- Social network: [Linkedin](www.linkedin.com/in/prevost-luc)
 - E-mail: luc-prevost@hotmail.fr
 
 ### 🔭 I'm currently working on:
