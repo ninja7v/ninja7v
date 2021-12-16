@@ -11,8 +11,8 @@
 - E-mail: luc-prevost@hotmail.fr
 
 ### 🔭 I'm currently working on:
+- Class A surface modeling
 - Side projects (traffic simulation in C++)
-- Looking for my first full-time contract.
 
 ### 👀 I’m interested in:
 - Simulation
