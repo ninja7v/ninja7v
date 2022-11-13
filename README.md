@@ -3,7 +3,7 @@
 </h3>
 
 <h2 align="center">
-🎓 I'm a c++/Python developper
+💻 I'm a c++/Python developper 💻
 </h2> 
 
 ### 🤝 Connect with me:
