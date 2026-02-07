@@ -3,7 +3,7 @@
 </h3>
 
 <h2 align="center">
-💻 I'm a C++/Python developper 💻
+💻 C++/Python developer focused on simulation, optimization 💻
 </h2> 
 
 ### 🤝 Connect with me:
@@ -11,9 +11,5 @@
 - E-mail: luc-prevost@hotmail.fr
 
 ### 👨‍💻 I'm currently working on (in my spare time):
-- Side projects (traffic simulation in C++)
-
-### 👀 I’m interested in:
-- Simulation
-- Optimization
-- Modelization
+- [Topopt-Comec](https://github.com/ninja7v/Topopt-Comec) — Topology optimization for compliant mechanisms (python)
+- [Traffic-Simulator](https://github.com/ninja7v/Traffic-Simulator) — Traffic simulation engine (C++)
