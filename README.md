@@ -10,6 +10,9 @@
 - Social network: [Linkedin](https://www.linkedin.com/in/prevost-luc)
 - E-mail: luc-prevost@hotmail.fr
 
-### 👨‍💻 I'm currently working on (in my spare time):
-- [TopoptComec](https://github.com/ninja7v/TopoptComec) — Topology optimization for compliant mechanisms (python)
+### 👨‍💻 Working on (spare time):
 - [TrafficFlow](https://github.com/ninja7v/TrafficFlow) — Traffic simulation engine (C++)
+
+Other contributions:
+- [FreeCAD skill for OpenClaw](https://clawhub.ai/ninja7v/skill-freecad) — Generate and modify parametric parts from a chatbot with OpenClaw (Python)
+- [TopoptComec](https://github.com/ninja7v/TopoptComec) — Topology optimization for compliant mechanisms (python)
