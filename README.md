@@ -11,6 +11,7 @@
 - E-mail: luc-prevost@hotmail.fr
 
 ### 👨‍💻 Working on (spare time):
+- Automation tool experimentation (especially OpenClaw)
 - [TrafficFlow](https://github.com/ninja7v/TrafficFlow) — Traffic simulation engine (C++)
 
 Other contributions:
